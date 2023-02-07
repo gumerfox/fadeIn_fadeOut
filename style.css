@@ -1,0 +1,7 @@
+.block {
+  display: none;
+}
+.btn {
+  background-color: yellow;
+  cursor: pointer;
+}
